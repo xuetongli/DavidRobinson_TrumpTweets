@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 
 library(ggplot2)
-theme_set(theme_bw())
+#theme_set(theme_bw())
 ```
 
 I don't normally post about politics (I'm not particularly savvy about polling, which is where data science [has had the largest impact on politics](http://fivethirtyeight.com/)). But this weekend I saw a hypothesis about Donald Trump's twitter account that simply begged to be investigated with data:
